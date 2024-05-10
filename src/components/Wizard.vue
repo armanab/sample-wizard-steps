@@ -486,7 +486,7 @@ export default {
     },
 };
 </script>
-<style scoped lang="scss">
+<style scoped lang="scss"> 
 $gray-base: #000 !default;
 $gray-darker: lighten($gray-base, 13.5%) !default; // #222
 $gray-dark: lighten($gray-base, 20%) !default; // #333
