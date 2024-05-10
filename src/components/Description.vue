@@ -16,12 +16,10 @@
 
 
 <script>
-import { debounce } from 'vue-debounce'
+
 
 export default {
-    directives: {
-        debounce
-    },
+
     data() {
         return {
             description: '',
